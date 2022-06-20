@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/pdamrych/cactors/Akka-Classic-Actors/projekt/src/main/scala/model/Utl.scala:8:9 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m8 |[0m  [33mimport[0m faker._[0m
+[0m[[0m[31merror[0m] [0m[0m  |         [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |         Not found: faker[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/pdamrych/cactors/Akka-Classic-Actors/projekt/src/main/scala/model/Utl.scala:7:13 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m  [33mimport[0m org.scalacheck.rng.Seed[0m
+[0m[[0m[31merror[0m] [0m[0m  |         [31m^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |         value scalacheck is not a member of org[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
